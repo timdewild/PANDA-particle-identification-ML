@@ -1,0 +1,38 @@
+### Figure
+
+figure.figsize : 6.4, 4.8
+
+### Font
+font.family : serif
+font.serif : computer modern roman
+font.size : 16
+
+### Text
+text.usetex : True
+
+### PGF packages
+pgf.rcfonts: False
+pgf.preamble: \usepackage{amsmath}, \usepackage{amssymb}
+
+### Axes
+axes.labelsize : 16
+axes.prop_cycle : cycler('color', ['1750AC', '86CEFA', 'E97452', '8B0001', 'D3D3D3', '737373'])
+axes.linewidth : 0.75
+
+### X ticks
+xtick.labelsize : 16
+xtick.direction : in
+xtick.top : True
+
+xtick.major.pad : 8
+
+### Y ticks
+ytick.labelsize : 16
+ytick.direction : in
+ytick.right : True
+
+ytick.major.pad : 8
+
+### Legend
+legend.fontsize : 12
+legend.handlelength : 1.5
