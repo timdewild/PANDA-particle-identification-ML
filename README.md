@@ -10,9 +10,10 @@ In this project, we focus on the electromagnetic-calorimeter (EMC). The EMC is d
 </div>
 <div align="center">Schematic image of the EMC.</div>
 
+
 In addition to photons (the signal events), the EMC is also triggered by various background sources. Much of these background events are triggered by neutrons, which generate secondary showers as well, thereby mimicking the photons. One of the challenges is therefore to discriminate between photons events (the signal) and neutron events (the background). 
 
-# Goal
+## Goal and Approach
 In this project, the goal will be to use machine learning techniques to discriminate between signal and background events. The response of the EMC to photon and neutron events is simulated using Monte Carlo techniques, resulting in two datasets:
 1. The `emc_gamma.csv` dataset, containing about 50000 simulated events induced by photons in the momentum range 1-5 GeV/c.
 2. The `emc_neutron.csv` dataset, containing about 50000 simulated events induced by neutrons in the same momentum range. 
