@@ -4,4 +4,4 @@ The PANDA experiment will study the annihilation of protons with anti-protons to
 
 In this project, we focus on the electromagnetic-calorimeter (EMC). The EMC is designed to measure the scattering angle and energy of high-energetic photons originating from the $\bar{p}p$ interaction point. 
 
-![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](/images/emc_panda.png)
+![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](/images/emc_panda.png =300x)
